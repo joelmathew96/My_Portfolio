@@ -84,7 +84,7 @@ export default function Home() {
                         {!done && <span className="brand-cursor--blink">_</span>}
                     </h1>
                     <div className="hero__title-wrapper animate-fadeUp" style={{ animationDelay: '0.2s' }}>
-                        <span className="hero__title-static">AI Engineer</span>
+                        <span className="hero__title-static">Full Stack Software Developer</span>
                     </div>
                     <p className="hero__bio animate-fadeUp" style={{ animationDelay: '0.3s' }}>
                         I build scalable AI-powered systems that transform complex documents into structured, actionable data to solve real-world problems.
@@ -107,7 +107,7 @@ export default function Home() {
                     <div className="reveal about__grid">
                         <div className="about__avatar-col">
                             <div className="about__avatar">
-                                <img src={aboutMeImg} alt="Kah Wei Chong" className="about__avatar-img" />
+                                <img src={aboutMeImg} alt="Joel Mathew" className="about__avatar-img" />
                             </div>
                         </div>
                         <div className="about__text-col">
@@ -115,8 +115,7 @@ export default function Home() {
                                 Passionate about solving <span className="text-amber">real-world problems with AI</span>
                             </h2>
                             <p style={{ marginBottom: '1.25rem' }}>
-                                I graduated with a Bachelor of Software Engineering (Computer Science) from Southern University College JB, where I developed a strong foundation in data-driven problem solving. During my internship, I gained hands-on experience in Vision AI, turning computer vision concepts into practical applications. I have also developed AI Chatbot System and  Task Tracker System by using React.js, Next.js, Python, HTML5, CSS3, 
-JavaScript and MongoDB
+                                I graduated with a Bachelor of Software Engineering (Computer Science) from Southern University College JB, where I developed a strong foundation in data-driven problem solving. During my internship, I gained hands-on experience in Vision AI, turning computer vision concepts into practical applications. I have also developed AI Chatbot System and  Task Tracker System by using React.js, Next.js, Python, HTML5, CSS3, JavaScript and MongoDB
                             </p>
                         </div>
                     </div>
